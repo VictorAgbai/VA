@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VictorAgbai
 - 👀 I’m interested in Data Science, Machine Learning and Artificial Intelligence
-- 🌱 I’m currently learning Python programming
-- 💞️ I’m looking to collaborate on beginner projects
+- 🌱 I’m currently taking on Data Analytics projects
+- 💞️ I’m looking to collaborate on intermediate DA projects
 - 📫 How to reach me @VictorAgbai
 
 <!---
